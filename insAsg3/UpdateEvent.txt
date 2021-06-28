@@ -1,0 +1,16 @@
+Duck Pin Bowling  10-pin  
+1. A game consists of 10 frames. Each box on the score sheet represents one frame.
+ 2. Maximum number of balls rolled in each frame is three.
+ 3. Add each frame’s score to the previous one so that the game score progressively increases.
+ 4. If all ten pins are knocked down by the first ball in any frame, it is called a 'Strike' and is usually symbolised on the score sheet with an X.
+ 5. The maximum score is 300.  
+________
+2  2  2  
+________
+Candlepin Bowling  10-pin  
+1. Each player gets three rolls per turn.
+ 2. This is scored by bowling 12 strikes: one in each box, and a strike with both bonus balls in the 10th box.
+ 3. Candlepins are thinner (hence the name "candlepin"), and thus harder to knock down.
+ 4. The candlepin pinsetter is triggered manually with a reset button after each frame rather than automatically.
+ 5. The maximum score is 300.  
+________
